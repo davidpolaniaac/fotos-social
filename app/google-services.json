@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208899077081",
+    "firebase_url": "https://social-foto.firebaseio.com",
+    "project_id": "social-foto",
+    "storage_bucket": "social-foto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208899077081:android:abb6945148788ddc",
+        "android_client_info": {
+          "package_name": "website.davidpolania.android.photofeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208899077081-oldmmne32r3fef59lsrgp4qhlpdkgajl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-VS2X-PupNsgY8kNz5I33kJ2f6vVtk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
